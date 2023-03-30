@@ -24,7 +24,6 @@ main {
     float: left;
 }
 
-
 .team-intro {
     text-align: center;
 }
@@ -45,13 +44,16 @@ main {
 .team-box {
     background-color: #e43071;
     border: 10px solid blanchedalmond;
+    width: 33%;
 }
 
 .img-team-box {
+    width: 30%;
 }
 
 .black-box {
     color: white;
     background-color: #0f0e17;
     padding: 15px;
+    width: 70%;
 }
