@@ -36,3 +36,9 @@ main {
     line-height: 1.4rem;
     padding-bottom: 40px;
 }
+
+.team {
+    width: auto;
+    height: 600px;
+    background-color: aquamarine;
+}
