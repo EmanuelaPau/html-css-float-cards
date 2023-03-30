@@ -14,3 +14,25 @@ clearfix::after {
 body {
     font-family:'Rubik', sans-serif;
 }
+
+main {
+    width: 70%;
+    margin: 0 auto;  
+}
+
+.team-intro {
+    text-align: center;
+}
+
+.page-title {
+    color: #e43071;
+    font-size: 2.5rem;
+    padding: 40px 0;
+}
+
+.text-paragraph {
+    color: #212427;
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    padding-bottom: 40px;
+}
