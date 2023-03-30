@@ -10,3 +10,7 @@ clearfix::after {
     display: table;
     clear: both
 }
+
+body {
+    font-family:'Rubik', sans-serif;
+}
