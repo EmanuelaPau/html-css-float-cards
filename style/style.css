@@ -13,6 +13,7 @@ clearfix::after {
 
 h2 {
     font-size: 1.2rem;
+    line-height: 1.4rem;
     vertical-align: middle;
     margin-bottom: 0.6rem;
 }
@@ -29,9 +30,10 @@ main {
 address {
     font-size: 0.9rem;
     font-style: normal;
-    color:#50c3e8;
     margin-top: 0.6rem;
+    line-height: 1.4rem;
     vertical-align: middle;
+    color:#50c3e8;
 }
 
 .float-left {
@@ -57,7 +59,7 @@ address {
 
 .team-box {
     background-color: #0f0e17;
-    width: 31%;
+    width: 30%;
     margin-bottom: 50px;
     margin-right: 3%;
     box-shadow: -1px 2px 10px 0px #6C6C6C;
