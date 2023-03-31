@@ -27,13 +27,14 @@ main {
     margin: 0 auto;  
 }
 
-address {
+a {
     font-size: 0.9rem;
     font-style: normal;
     margin-top: 0.6rem;
     line-height: 1.4rem;
-    vertical-align: middle;
     color:#50c3e8;
+    text-decoration: none;
+    padding-top: 2rem;
 }
 
 .float-left {
@@ -71,7 +72,6 @@ address {
 
 .img-team-box {
     width: 30%;
-    vertical-align: middle;
 }
 
 .black-box {
